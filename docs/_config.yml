@@ -1,0 +1,18 @@
+title: "Requirements Discovery Playbook"
+description: "A phased, role-aware process and templates for gathering software requirements from customers."
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+# Top navigation
+header_pages:
+  - overview.md
+  - process.md
+  - phases/index.md
+  - audiences/index.md
+  - templates/index.md
+  - references.md
+
+# Minima settings
+minima:
+  skin: classic
