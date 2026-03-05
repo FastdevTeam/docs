@@ -12,6 +12,15 @@ Vendor Product (problem framing) + Engineering (build) + SA (technical risks).
 ## Recommended timebox
 1–3 weeks (timeboxed).
 
+## Typical commercial model
+- **Paid (default):** custom PoV/prototype work is delivery effort.
+- **Free exception:** demonstrating existing product capability (no customer-specific build, no customer data/system access).
+
+**Convert to paid when (practical triggers):**
+- any engineering build is required,
+- PoV touches customer integrations/data/identity,
+- PoV success criteria must be proven with measurable NFR scenarios.
+
 ## Purpose
 - Validate the highest-risk assumptions quickly (value, usability, feasibility).
 - Demonstrate a thin end-to-end slice (“walking skeleton”).

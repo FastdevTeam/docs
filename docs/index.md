@@ -34,6 +34,7 @@ flowchart LR
 ## Start here
 - [Common Overview](overview/)
 - [How to run the process](process/)
+- [Commercial boundary (free vs paid)](commercial-boundary/)
 - [Phase-by-phase guides](phases/)
 - [Role-based guides](audiences/)
 - [Templates (copy/paste)](templates/)

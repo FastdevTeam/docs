@@ -12,6 +12,10 @@ Vendor Sales (owner), with SA/Product reviewing.
 ## Recommended timebox
 Async (10–20 minutes for customer to complete).
 
+## Typical commercial model
+- **Free (pre-sales):** default.
+- **Convert to paid when:** intake expands into detailed requirements work or requires significant back-and-forth across multiple stakeholder groups.
+
 ## Purpose
 - Collect baseline context so meetings focus on decisions, not fact-finding.
 - Identify stakeholders for later phases (PO, IT, Security, Ops).

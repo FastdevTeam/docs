@@ -12,6 +12,10 @@ Vendor Sales (lead), SA optional depending on complexity.
 ## Recommended timebox
 45–60 minutes.
 
+## Typical commercial model
+- **Free (pre-sales):** default.
+- **Convert to paid when:** the customer requests delivery-grade requirements/specs or a custom PoV before feasibility and constraints are validated.
+
 ## Purpose
 - Align on outcomes, urgency, and buying process.
 - Build a shared understanding of current pain and MVP hypothesis.

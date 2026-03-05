@@ -12,6 +12,15 @@ Vendor Security/GRC (lead) with SA for technical answers; Sales coordinates.
 ## Recommended timebox
 Async + 30–60 minute working session (enterprise may require multiple rounds).
 
+## Typical commercial model
+- **Paid discovery when non-trivial:** enterprise questionnaires, evidence packs, and compliance constraints can require substantial effort.
+- **Free (pre-sales) is typically limited to:** identifying whether a security/procurement gate exists and what artifacts are required.
+
+**Convert to paid when (practical triggers):**
+- completing questionnaires beyond a quick screening,
+- producing/curating an evidence pack,
+- supporting DPIA/threat-model style activities or deep legal/compliance mapping.
+
 ## Purpose
 - Prevent late-stage blockers.
 - Map customer questionnaires to a single evidence pack.

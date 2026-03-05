@@ -22,5 +22,11 @@ permalink: /audiences/sales/
 - Stakeholder map (who needs to attend which sessions).
 - Risks/unknowns list.
 
+
+## Commercial boundary (free vs paid)
+Discovery can be time-consuming. Your job is to keep early work **directional** and convert to **paid discovery** when deliverables become delivery-grade.
+- Guide: [Commercial boundary](/commercial-boundary/)
+- Script: [Commercial boundary talk track](/templates/commercial-boundary/)
+
 ## Practical scripts
 Use the scripts in [Templates → Sales Discovery](/templates/sales-discovery/).

@@ -14,6 +14,9 @@ Each phase has:
 - outputs to deliver,
 - red flags and mitigations.
 
+
+> Note: Not every phase is “free by default”. See the [commercial boundary guide](/commercial-boundary/) for when to keep discovery directional vs when to move into paid discovery.
+
 ## Phases
 1. [Pre-work intake](intake/)
 2. [Sales discovery call](sales-discovery/)

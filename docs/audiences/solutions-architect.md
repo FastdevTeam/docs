@@ -23,5 +23,10 @@ permalink: /audiences/solutions-architect/
 - Technical risks and recommended PoV spikes.
 - Contribution to handover packet sections.
 
+
+## Commercial boundary (your responsibility)
+Phase 3+ outputs are often **delivery-grade**. Call out when a request crosses from “directional pre-sales” into paid discovery (integration specifics, measurable NFR targets, security evidence, or custom PoV work).
+See: [Commercial boundary](/commercial-boundary/)
+
 ## Practical checklists
 See [Templates → Technical Deep Dive](/templates/technical-deep-dive/).

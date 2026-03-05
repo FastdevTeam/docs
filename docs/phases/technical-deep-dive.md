@@ -12,6 +12,15 @@ Vendor Solutions Architect (lead), Engineering/Product support as needed.
 ## Recommended timebox
 60–90 minutes (deep dive) + 45–60 minutes (NFR scenarios); may be combined.
 
+## Typical commercial model
+- **Paid discovery (default):** this phase produces feasibility artifacts (integration map, measurable NFR scenarios) that are delivery-grade.
+- **Exception:** a *very light* technical check can be included in pre-sales if it stays directional (systems list only).
+
+**Convert to paid when (practical triggers):**
+- moving from “systems involved” to “endpoints/auth/data contracts”,
+- requesting sandbox access or sample data extracts,
+- defining measurable performance/availability/security targets.
+
 ## Purpose
 - Validate feasibility: integrations, data, environments, delivery constraints.
 - Convert vague NFRs (fast/secure/reliable) into measurable scenarios.

@@ -42,6 +42,14 @@ This document provides a **shared, plain-English overview** of how we will disco
 5. **Continuous refinement**  
    Requirements are refined iteratively; after each session we confirm what we captured.
 
+
+## Commercial boundary (free vs paid)
+Discovery can range from light qualification to delivery-grade specification. To keep expectations clear, we separate:
+- **Pre-sales discovery (usually free):** outcomes + workflows + MVP hypothesis + directional plan.
+- **Delivery-grade discovery (paid):** detailed requirements, integration specifics, measurable NFRs, security evidence, and custom PoV work.
+
+See: [Commercial boundary details](/commercial-boundary/)
+
 ## The phased process (high level)
 - **Phase 0 — Pre-work intake** (Sales-led): collect context; identify stakeholders; request evidence.
 - **Phase 1 — Sales discovery call** (Sales-led, SA optional): outcomes, urgency, stakeholders, decision process.

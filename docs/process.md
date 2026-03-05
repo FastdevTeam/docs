@@ -24,6 +24,22 @@ Instead, use **timeboxed sessions** where each session has:
 - **Power users / SMEs**: validate workflows, exceptions, and usability needs.
 - **Customer IT / Ops**: validate integrations, environments, operational needs, and NFRs.
 
+
+## Commercial boundary (when to stay free vs when to charge)
+Discovery is not “all free by default”. Use a clear boundary:
+
+- **Pre-sales discovery (usually free):** enough to confirm fit and propose a credible MVP and plan.
+- **Paid discovery:** when outputs become reusable project assets (detailed workflows, integration specs, measurable NFRs, security evidence, custom PoV).
+
+### Practical conversion test (use internally)
+Move to **paid discovery** when **any 2** are true:
+1) More than ~2–4 hours beyond initial sessions  
+2) Multiple stakeholder groups are required (IT/Security/Ops)  
+3) You need access to customer systems/data (sandbox, extracts, keys)  
+4) Deliverables become implementation-grade (stories + acceptance criteria, data contracts, NFR targets)
+
+See: [Commercial boundary details](/commercial-boundary/) and the [Sales talk track template](/templates/commercial-boundary/).
+
 ## A practical cadence (default)
 ### Compressed (≈2 weeks, low complexity)
 1. Intake (async) → Sales discovery

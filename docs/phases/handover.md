@@ -12,6 +12,14 @@ Vendor Product/Delivery (lead), Engineering and SA support.
 ## Recommended timebox
 30–60 minute handover meeting + async review.
 
+## Typical commercial model
+- **Either:** a lightweight handover summary may be included in pre-sales; **delivery-grade** backlog and refinement cadence is typically part of a paid engagement.
+
+**Convert to paid when (practical triggers):**
+- backlog needs grooming beyond an MVP list,
+- acceptance criteria/testability must be defined for delivery,
+- cross-team delivery planning and dependency mapping is required.
+
 ## Purpose
 - Convert discovery into delivery-ready backlog items.
 - Ensure traceability from outcomes → workflows → backlog items → acceptance criteria.

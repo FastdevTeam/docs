@@ -12,6 +12,15 @@ Vendor Product + SA (co-leads). Sales supports.
 ## Recommended timebox
 90–120 minutes.
 
+## Typical commercial model
+- **Free (pre-sales):** *light* workshop to define 3 core journeys and an MVP slice.
+- **Paid discovery:** when capturing full exceptions/edge cases, writing acceptance criteria at scale, or producing a delivery-ready backlog.
+
+**Convert to paid when (practical triggers):**
+- >10–15 backlog items need detailed acceptance criteria,
+- multiple business units/roles require separate workflows,
+- workflow depends on integrations/data that require concrete contracts.
+
 ## Purpose
 - Map end-to-end workflows (happy path + key exceptions).
 - Define MVP slice and explicit out-of-scope.
