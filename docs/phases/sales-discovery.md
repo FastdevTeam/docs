@@ -21,6 +21,26 @@ Vendor Sales / Account Executive (lead), SA optional depending on complexity.
 - Build a shared understanding of current pain and MVP hypothesis.
 - Produce a short discovery summary for confirmation.
 
+## Use this phase when
+- You need the first live conversation that tests whether the opportunity is real and worth deeper discovery.
+- Sales needs to understand urgency, stakeholders, and what must work first.
+- The team needs a shared view of problem, users, and likely next sessions.
+
+## Do not use this phase when
+- The customer expects delivery-grade requirements gathering in the first meeting.
+- The key business owner and sponsor are unavailable and cannot delegate decisions.
+- The next step is clearly technical due diligence with IT already driving the agenda.
+
+## Entry criteria
+- A basic intake or equivalent context exists.
+- Sales has a plausible fit hypothesis.
+- A business-side customer stakeholder is available for the call.
+
+## Template(s) to use
+- [Sales discovery call script]({{ "/templates/sales-discovery/" | relative_url }})
+- [Discovery Summary v0]({{ "/templates/discovery-summary/" | relative_url }})
+- [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }})
+
 ## Required customer attendees
 - Executive sponsor / business sponsor and/or customer product owner / business owner
 - Optional: a business SME / power user for quick workflow context
@@ -40,6 +60,17 @@ Vendor Sales / Account Executive (lead), SA optional depending on complexity.
 ## Outputs
 - Discovery Summary v0 (problem, outcomes, users, MVP hypothesis, risks)
 - Next-step plan and workshop invites
+
+## Exit criteria
+- Outcomes, urgency, and decision mechanics are understood well enough to plan the next step.
+- An MVP hypothesis exists, even if it is provisional.
+- The right next session is chosen and the right roles are identified.
+- Major blockers and unknowns are logged.
+
+## Next likely phase
+- [Phase 2 — Workflow workshop]({{ "/phases/workflow-workshop/" | relative_url }})
+- [Phase 3 — Technical deep dive + NFR scenarios]({{ "/phases/technical-deep-dive/" | relative_url }}) for integration-heavy opportunities
+- [Phase 4 — Security / procurement track]({{ "/phases/security-procurement/" | relative_url }}) if vendor review is a likely gate
 
 ## Red flags (and what to do)
 - “Everything is a must-have” → use MVP slicing language; propose workflow workshop.

@@ -8,7 +8,9 @@ permalink: /templates/
 
 - [Pre-work intake form](intake-form/)
 - [Sales discovery call script](sales-discovery/)
+- [Discovery Summary v0](discovery-summary/)
 - [Commercial boundary talk track](commercial-boundary/)
+- [Decision log + open questions + risk register](decision-log-risk-register/)
 - [Workflow workshop pack](workflow-workshop/)
 - [Technical deep dive + NFR scenarios](technical-deep-dive/)
 - [Security/procurement evidence pack](security-evidence-pack/)

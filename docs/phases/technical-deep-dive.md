@@ -26,6 +26,25 @@ Vendor Solutions Architect (lead), Engineering/Product support as needed.
 - Convert vague NFRs (fast/secure/reliable) into measurable scenarios.
 - Produce integration map + prioritized NFR scenario list.
 
+## Use this phase when
+- Integrations, identity, environments, or delivery constraints could materially change scope.
+- The customer is asking for performance, reliability, or security commitments.
+- A PoV or implementation would fail without better technical clarity.
+
+## Do not use this phase when
+- Discovery is still at a very early qualification stage with no technical signals yet.
+- The conversation is only about business problem framing and not feasibility.
+- The customer cannot provide any relevant technical stakeholder yet and the session would be pure guesswork.
+
+## Entry criteria
+- Business outcomes and the initial workflow/MVP hypothesis are understood.
+- Technical stakeholders have been identified.
+- There is agreement that the effort has crossed into technical discovery, whether light pre-sales or paid.
+
+## Template(s) to use
+- [Technical deep dive + NFR scenarios]({{ "/templates/technical-deep-dive/" | relative_url }})
+- [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }})
+
 ## Required customer attendees
 - Customer IT / architecture (required)
 - Customer operations / support (strongly recommended)
@@ -49,6 +68,17 @@ Vendor Solutions Architect (lead), Engineering/Product support as needed.
 - Data requirements + access plan
 - Prioritized NFR scenarios with measures
 - Technical risk register
+
+## Exit criteria
+- The main systems, constraints, and access dependencies are visible.
+- Important NFRs are measurable enough to test or estimate against.
+- Technical risks and follow-up actions are owned.
+- The team knows whether to proceed to security review, PoV, or handover.
+
+## Next likely phase
+- [Phase 4 — Security / procurement track]({{ "/phases/security-procurement/" | relative_url }})
+- [Phase 5 — Prototype / PoV]({{ "/phases/pov/" | relative_url }})
+- [Phase 6 — Structured handover + backlog refinement]({{ "/phases/handover/" | relative_url }}) if technical uncertainty is already low
 
 ## Red flags (and what to do)
 - No sandbox access and no plan → PoV/integration spikes will fail.

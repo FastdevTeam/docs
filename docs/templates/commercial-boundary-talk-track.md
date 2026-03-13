@@ -9,14 +9,37 @@ permalink: /templates/commercial-boundary/
 Use this template to set expectations on **what is free vs paid** discovery, without sounding defensive.
 Keep the framing: **risk reduction + faster success**, not “we don’t want to help”.
 
----
+## Goal
+Help Sales explain when discovery stays directional and when it becomes delivery-grade work that should be packaged and sold.
 
 ## When to use
 - Customer asks for detailed requirements, integrations, NFR targets, or a custom PoV early.
 - You see multiple stakeholder tracks (IT + Security + Ops) emerging.
 - The customer wants artifacts they can “keep” and use to implement.
 
----
+## Owner
+Sales / Account Executive, with SA or Product support when needed.
+
+## Inputs required
+- Current opportunity stage
+- Known complexity signals
+- Your preferred packaging option
+
+## Outputs produced
+- A clear explanation of the commercial boundary
+- A recommended paid discovery or PoV motion when needed
+- A follow-up message the customer can react to
+
+## Timebox
+Use in a 2-5 minute conversation, then follow up in writing if needed.
+
+## Quick trigger checklist
+- Are they asking for implementation-grade outputs?
+- Are multiple customer stakeholder groups already required?
+- Do they want access to systems, data, or security review support?
+- Would the resulting artifact still be useful to them even if they used another vendor?
+
+If the answer is “yes” to 2 or more, you likely need the paid discovery conversation.
 
 ## One-minute explanation (customer-friendly)
 
@@ -42,8 +65,6 @@ Keep the framing: **risk reduction + faster success**, not “we don’t want to
 
 Link: [Commercial Boundary details]({{ "/commercial-boundary/" | relative_url }})
 
----
-
 ## The “2×2 conversion test” (internal guardrail)
 Move to paid when any **2** are true:
 1) > 2–4 hours beyond initial discovery
@@ -51,7 +72,16 @@ Move to paid when any **2** are true:
 3) need access to systems/data
 4) outputs become implementation-grade
 
----
+## Choose the motion
+
+- Stay in free discovery when the customer only needs directional fit, top workflows, and an MVP hypothesis.
+- Use a paid design sprint when the main need is workflow, integration, NFR, and handover clarity.
+- Use a paid PoV package when the main need is proof on value, usability, or feasibility.
+
+## Internal approval cues
+- Confirm the customer understands what they will receive.
+- Confirm the team can describe the sprint or PoV scope in one sentence.
+- Confirm internal owners exist for SA, Product, Security, or Engineering involvement.
 
 ## Suggested next step (call-to-action)
 
@@ -71,7 +101,22 @@ Move to paid when any **2** are true:
 ### Option C — Paid PoV package
 - “If you need proof first, we can timebox a PoV with explicit success criteria.”
 
----
+## Example follow-up email
+
+**Subject:** Recommended next step for de-risking discovery
+
+Hi {{name}},
+
+Based on what we covered, we can keep the next step lightweight if you only need directional fit and an MVP outline.
+
+If you want confidence on workflows, integrations, NFRs, and security constraints before implementation, the better path is a short paid discovery sprint. That gives you concrete outputs we can use for planning: a workflow model, MVP scope, integration map, measurable constraints, and a handover packet.
+
+If proof is the priority, we can instead structure a timeboxed PoV with explicit success criteria.
+
+The recommendation from our side is: {{recommended option}}.
+
+Best,
+{{sender}}
 
 ## Common objections and responses
 

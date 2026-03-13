@@ -1,0 +1,84 @@
+---
+layout: page
+title: "Discovery Summary v0"
+permalink: /templates/discovery-summary/
+---
+
+# Discovery Summary v0
+
+## Goal
+Capture the output of the initial sales discovery conversation in a format that can be confirmed with the customer and used to plan the next discovery steps.
+
+## When to use
+- Immediately after the first serious sales discovery call
+- When you need to confirm what was heard before scheduling deeper workshops
+- When internal teams need a short, reusable snapshot of the opportunity
+
+## Owner
+Sales / Account Executive, with SA or Product input when they joined the call.
+
+## Inputs required
+- Pre-work intake form or equivalent notes
+- Sales discovery call notes
+- Known stakeholders, blockers, and timeline context
+
+## Outputs produced
+- Shared summary of the problem, outcomes, users, and MVP hypothesis
+- Recommended next sessions and attendee list
+- Initial risks, blockers, and open questions
+
+## Timebox
+10-20 minutes to complete after the call.
+
+## Template
+
+### 1) Opportunity snapshot
+- Customer / account:
+- Date:
+- Prepared by:
+- Opportunity / deal name:
+- Stage:
+
+### 2) Problem and why now
+- Problem statement:
+- Trigger event / reason this matters now:
+- Cost of doing nothing:
+
+### 3) Outcomes and success measures
+- Primary business outcome:
+- Secondary outcomes:
+- Success measures:
+
+### 4) Users and workflows
+- Primary user roles:
+- Top workflows discussed:
+- Current pain points:
+
+### 5) MVP hypothesis
+- What must work in v1:
+- What can wait until later:
+- Key assumptions:
+
+### 6) Stakeholders and decision mechanics
+- Executive sponsor / business sponsor:
+- Customer product owner / business owner:
+- SMEs / power users:
+- IT / architecture / operations contacts:
+- Security / procurement contacts:
+- Who approves:
+- Who can block:
+
+### 7) Risks, blockers, and unknowns
+- Known blockers:
+- Risks / unknowns:
+- Evidence still needed:
+
+### 8) Recommended next step
+- Recommended next phase:
+- Sessions to schedule:
+- Required attendees:
+- Decision needed before proceeding:
+
+### 9) Customer confirmation note
+- What we want the customer to confirm or correct:
+

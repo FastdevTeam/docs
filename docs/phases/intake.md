@@ -21,6 +21,24 @@ Async (10–20 minutes for customer to complete).
 - Identify stakeholders for later phases (product owner, IT, security, operations).
 - Request initial evidence (screenshots, docs, sample data).
 
+## Use this phase when
+- You are preparing for the first serious discovery conversation.
+- Sales needs enough context to route the opportunity correctly.
+- You want customer time in the first live session spent on decisions, not basic fact gathering.
+
+## Do not use this phase when
+- The customer has already provided an equivalent written brief that covers outcomes, stakeholders, constraints, and evidence.
+- The opportunity is already in deeper workflow, technical, or security discovery.
+
+## Entry criteria
+- There is a real opportunity worth qualifying.
+- Sales has a named customer contact.
+- The team needs a baseline view of problem, users, and constraints.
+
+## Template(s) to use
+- [Pre-work intake form]({{ "/templates/intake-form/" | relative_url }})
+- [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }}) for internal follow-up
+
 ## Required customer attendees
 - Executive sponsor / business sponsor or customer product owner / business owner
 - Optional: IT / architecture contact if known
@@ -41,6 +59,16 @@ Async (10–20 minutes for customer to complete).
 - Completed intake form
 - Stakeholder map and invite list
 - Initial risks/unknowns list
+
+## Exit criteria
+- Baseline problem, outcomes, and context are captured.
+- A customer product owner / business owner or executive sponsor is identified.
+- Initial risks or hard constraints are logged.
+- The next live session and likely attendees are clear.
+
+## Next likely phase
+- [Phase 1 — Sales discovery call]({{ "/phases/sales-discovery/" | relative_url }})
+- In parallel, schedule [Phase 3 — Technical deep dive]({{ "/phases/technical-deep-dive/" | relative_url }}) or [Phase 4 — Security / procurement track]({{ "/phases/security-procurement/" | relative_url }}) early if hard constraints are already visible.
 
 ## Red flags (and what to do)
 - Customer cannot name an empowered product owner / business owner → escalate and request one.

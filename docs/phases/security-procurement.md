@@ -26,6 +26,24 @@ Async + 30–60 minute working session (enterprise may require multiple rounds).
 - Map customer questionnaires to a single evidence pack.
 - Identify non-negotiable requirements early (certifications, residency, sub-processors).
 
+## Use this phase when
+- The customer has a formal security, compliance, procurement, or vendor onboarding process.
+- Security evidence or regulatory constraints could block the deal or implementation.
+- PoV or data access depends on approval from customer security or procurement.
+
+## Do not use this phase when
+- There is no meaningful security or procurement gate beyond light qualification questions.
+- The customer has not yet signaled any onboarding requirements and deeper work would be premature.
+
+## Entry criteria
+- A security or procurement gate has been identified.
+- Required customer contacts or questionnaires are available, or requested.
+- Sales and SA understand why this track matters for the opportunity.
+
+## Template(s) to use
+- [Security / procurement evidence pack]({{ "/templates/security-evidence-pack/" | relative_url }})
+- [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }})
+
 ## Required customer attendees
 - Customer Security/Compliance (required if they have a process)
 - Customer Procurement (if applicable)
@@ -49,6 +67,15 @@ Async + 30–60 minute working session (enterprise may require multiple rounds).
 - Evidence pack index + links
 - Questionnaire mapping table (domain → evidence → owner → status)
 - Blockers list and mitigation plan
+
+## Exit criteria
+- Required evidence and gaps are mapped clearly.
+- Owners exist for outstanding items.
+- The team knows whether delivery, PoV, or contracting can proceed.
+
+## Next likely phase
+- [Phase 5 — Prototype / PoV]({{ "/phases/pov/" | relative_url }}) if security allows parallel validation
+- [Phase 6 — Structured handover + backlog refinement]({{ "/phases/handover/" | relative_url }}) when blockers are sufficiently understood
 
 ## Red flags (and what to do)
 - Security engaged only after commercial close → high risk of delays.
