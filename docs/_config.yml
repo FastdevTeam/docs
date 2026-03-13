@@ -3,6 +3,7 @@ description: "A phased, role-aware process and templates for gathering software 
 theme: minima
 markdown: kramdown
 permalink: pretty
+baseurl: "/docs"
 
 # Top navigation
 header_pages:

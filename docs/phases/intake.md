@@ -7,7 +7,7 @@ permalink: /phases/intake/
 # Phase 0 — Pre-work Intake
 
 ## Lead
-Vendor Sales (owner), with SA/Product reviewing.
+Vendor Sales / Account Executive (owner), with SA/Product reviewing.
 
 ## Recommended timebox
 Async (10–20 minutes for customer to complete).
@@ -18,12 +18,12 @@ Async (10–20 minutes for customer to complete).
 
 ## Purpose
 - Collect baseline context so meetings focus on decisions, not fact-finding.
-- Identify stakeholders for later phases (PO, IT, Security, Ops).
+- Identify stakeholders for later phases (product owner, IT, security, operations).
 - Request initial evidence (screenshots, docs, sample data).
 
 ## Required customer attendees
-- Customer Sponsor or PO
-- Optional: IT contact if known
+- Executive sponsor / business sponsor or customer product owner / business owner
+- Optional: IT / architecture contact if known
 
 ## Agenda
 1. Explain what the intake is and why it matters
@@ -43,6 +43,6 @@ Async (10–20 minutes for customer to complete).
 - Initial risks/unknowns list
 
 ## Red flags (and what to do)
-- Customer cannot name an empowered PO → escalate and request one.
+- Customer cannot name an empowered product owner / business owner → escalate and request one.
 - Hard constraints appear (SSO, residency, on-prem) → schedule technical + security track immediately.
 - Success is subjective (“better visibility”) → require 1–2 measurable metrics.

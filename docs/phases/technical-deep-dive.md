@@ -27,9 +27,9 @@ Vendor Solutions Architect (lead), Engineering/Product support as needed.
 - Produce integration map + prioritized NFR scenario list.
 
 ## Required customer attendees
-- Customer IT/Architecture (required)
-- Customer Ops/Support (strongly recommended)
-- Customer PO (recommended for priority tradeoffs)
+- Customer IT / architecture (required)
+- Customer operations / support (strongly recommended)
+- Customer product owner / business owner (recommended for priority tradeoffs)
 
 ## Agenda
 1. Deployment constraints and environments

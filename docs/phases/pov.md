@@ -7,7 +7,7 @@ permalink: /phases/pov/
 # Phase 5 — Prototype / Proof-of-Value (PoV)
 
 ## Lead
-Vendor Product (problem framing) + Engineering (build) + SA (technical risks).
+Vendor Product Manager / Delivery Lead (problem framing) + Engineering (build) + SA (technical risks).
 
 ## Recommended timebox
 1–3 weeks (timeboxed).
@@ -27,9 +27,9 @@ Vendor Product (problem framing) + Engineering (build) + SA (technical risks).
 - Produce evidence for scope agreement and estimating.
 
 ## Required customer attendees
-- Customer PO (required)
-- 1–2 power users (required)
-- Customer IT (if integrations)
+- Customer product owner / business owner (required)
+- 1–2 business SMEs / power users (required)
+- Customer IT / architecture / operations (if integrations)
 - Customer Security (if PoV touches security concerns)
 
 ## Agenda

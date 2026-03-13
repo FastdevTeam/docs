@@ -7,7 +7,7 @@ permalink: /phases/workflow-workshop/
 # Phase 2 — Workflow Workshop (Story Mapping / Use-Case Slicing)
 
 ## Lead
-Vendor Product + SA (co-leads). Sales supports.
+Vendor Product Manager / Delivery Lead + SA (co-leads). Sales supports.
 
 ## Recommended timebox
 90–120 minutes.
@@ -27,9 +27,9 @@ Vendor Product + SA (co-leads). Sales supports.
 - Seed acceptance criteria for top workflows.
 
 ## Required customer attendees
-- Customer PO (required)
-- 1–2 power users/SMEs (required)
-- Optional: IT if workflow crosses systems
+- Customer product owner / business owner (required)
+- 1–2 business SMEs / power users (required)
+- Optional: IT / architecture / operations if the workflow crosses systems
 
 ## Agenda
 1. Align on personas + scope of the workshop
@@ -51,6 +51,6 @@ Vendor Product + SA (co-leads). Sales supports.
 - Open questions + owners
 
 ## Red flags (and what to do)
-- No empowered PO → the workshop becomes a “wish list”; escalate.
+- No empowered product owner / business owner → the workshop becomes a “wish list”; escalate.
 - Only features, no workflow spine → re-focus on end-to-end tasks.
 - Exceptions ignored but frequent → capture mitigation or include in scope.

@@ -31,4 +31,4 @@ Turn discovery outputs into delivery-ready backlog items with acceptance criteri
 
 ## Refinement cadence (default)
 - Weekly refinement (30–60 min) with Product + Eng + SA.
-- Customer PO joins when decisions are needed.
+- Customer product owner / business owner joins when decisions are needed.

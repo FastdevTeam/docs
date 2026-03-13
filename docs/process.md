@@ -16,13 +16,16 @@ Instead, use **timeboxed sessions** where each session has:
 - and a short confirmation loop after the session.
 
 ## Roles and responsibilities
-- **Sales**: leads early discovery, stakeholder alignment, and next steps; ensures the right customer roles are invited.
+- **Sales / Account Executive**: leads early discovery, stakeholder alignment, and next steps; ensures the right customer roles are invited.
 - **Solutions Architect (SA)**: leads technical feasibility, integrations, constraints, and NFR scenario elicitation.
-- **Product/Delivery**: leads workflow modeling, MVP slicing, acceptance criteria framing, and handover to delivery.
-- **Security/GRC**: leads security questionnaires and evidence pack management (enterprise customers especially).
-- **Customer PO / Sponsor**: decides priorities/scope tradeoffs and confirms outcomes.
-- **Power users / SMEs**: validate workflows, exceptions, and usability needs.
-- **Customer IT / Ops**: validate integrations, environments, operational needs, and NFRs.
+- **Product Manager / Delivery Lead**: leads workflow modeling, MVP slicing, acceptance criteria framing, and handover to delivery.
+- **Security / Compliance / GRC**: leads security questionnaires and evidence pack management (enterprise customers especially).
+- **Executive sponsor / business sponsor**: backs the initiative, helps secure support, and escalates stalled decisions.
+- **Customer product owner / business owner**: decides priorities and scope tradeoffs, and confirms outcomes.
+- **Business SMEs / power users**: validate workflows, exceptions, and usability needs.
+- **Customer IT / architecture / operations**: validate integrations, environments, operational needs, and NFRs.
+
+Use the [role-based guides]({{ "/audiences/" | relative_url }}) to brief each audience before sessions so ownership and expectations are clear.
 
 
 ## Commercial boundary (when to stay free vs when to charge)
@@ -38,7 +41,7 @@ Move to **paid discovery** when **any 2** are true:
 3) You need access to customer systems/data (sandbox, extracts, keys)  
 4) Deliverables become implementation-grade (stories + acceptance criteria, data contracts, NFR targets)
 
-See: [Commercial boundary details](/commercial-boundary/) and the [Sales talk track template](/templates/commercial-boundary/).
+See: [Commercial boundary details]({{ "/commercial-boundary/" | relative_url }}) and the [Sales talk track template]({{ "/templates/commercial-boundary/" | relative_url }}).
 
 ## A practical cadence (default)
 ### Compressed (≈2 weeks, low complexity)

@@ -40,7 +40,7 @@ Keep the framing: **risk reduction + faster success**, not “we don’t want to
 - security/procurement evidence pack work,
 - custom PoV beyond showing existing capabilities.
 
-Link: [Commercial Boundary details](/commercial-boundary/)
+Link: [Commercial Boundary details]({{ "/commercial-boundary/" | relative_url }})
 
 ---
 
@@ -83,4 +83,3 @@ Move to paid when any **2** are true:
 
 **Objection:** “We just need a quick estimate.”  
 **Response:** “We can provide a ROM range based on Phase 0–2. For a committed estimate, we’ll need the sprint outputs—otherwise we’d be guessing.”
-

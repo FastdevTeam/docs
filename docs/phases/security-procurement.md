@@ -7,7 +7,7 @@ permalink: /phases/security-procurement/
 # Phase 4 — Security / Procurement Track
 
 ## Lead
-Vendor Security/GRC (lead) with SA for technical answers; Sales coordinates.
+Vendor Security / Compliance / GRC (lead) with SA for technical answers; Sales coordinates.
 
 ## Recommended timebox
 Async + 30–60 minute working session (enterprise may require multiple rounds).
@@ -29,8 +29,8 @@ Async + 30–60 minute working session (enterprise may require multiple rounds).
 ## Required customer attendees
 - Customer Security/Compliance (required if they have a process)
 - Customer Procurement (if applicable)
-- Customer IT (often required)
-- Customer PO/Sponsor (optional)
+- Customer IT / architecture / operations (often required)
+- Customer product owner / business owner or executive sponsor / business sponsor (optional)
 
 ## Agenda
 1. Collect questionnaires and required evidence

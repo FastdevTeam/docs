@@ -27,7 +27,7 @@ Validate the highest-risk assumptions quickly using a thin end-to-end slice (“
 - Scenario 3:
 
 ## Success criteria
-- Customer PO sign-off criteria:
+- Customer product owner / business owner sign-off criteria:
 - Technical criteria (latency, reliability, data correctness):
 - Security viability criteria:
 

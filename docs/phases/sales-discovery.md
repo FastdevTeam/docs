@@ -7,7 +7,7 @@ permalink: /phases/sales-discovery/
 # Phase 1 — Sales Discovery Call
 
 ## Lead
-Vendor Sales (lead), SA optional depending on complexity.
+Vendor Sales / Account Executive (lead), SA optional depending on complexity.
 
 ## Recommended timebox
 45–60 minutes.
@@ -22,8 +22,8 @@ Vendor Sales (lead), SA optional depending on complexity.
 - Produce a short discovery summary for confirmation.
 
 ## Required customer attendees
-- Customer Sponsor and/or PO
-- Optional: a power user for quick workflow context
+- Executive sponsor / business sponsor and/or customer product owner / business owner
+- Optional: a business SME / power user for quick workflow context
 
 ## Agenda
 1. Context and trigger

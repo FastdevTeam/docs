@@ -7,7 +7,7 @@ permalink: /phases/handover/
 # Phase 6 — Structured Handover + Backlog Refinement
 
 ## Lead
-Vendor Product/Delivery (lead), Engineering and SA support.
+Vendor Product Manager / Delivery Lead (lead), Engineering and SA support.
 
 ## Recommended timebox
 30–60 minute handover meeting + async review.
@@ -27,7 +27,7 @@ Vendor Product/Delivery (lead), Engineering and SA support.
 
 ## Required customer attendees
 - Vendor delivery team (required)
-- Optional: Customer PO for final confirmation
+- Optional: customer product owner / business owner for final confirmation
 
 ## Agenda
 1. Walk through outcomes + scope boundaries
@@ -49,4 +49,4 @@ Vendor Product/Delivery (lead), Engineering and SA support.
 ## Red flags (and what to do)
 - Backlog items too large/vague → split and add acceptance criteria.
 - Dependencies not captured (integrations/security) → add before estimates.
-- No decision owner → risk of churn; secure PO involvement.
+- No decision owner → risk of churn; secure product owner / business owner involvement.
