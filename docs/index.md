@@ -26,7 +26,7 @@ Use it when you need to:
 
 | If you need to... | Start here | Then use this | Primary owner |
 |---|---|---|---|
-| Run the first serious customer discovery conversation | [Pre-work intake]({{ "/phases/intake/" | relative_url }}) | [Sales discovery call]({{ "/phases/sales-discovery/" | relative_url }}) and the [intake form]({{ "/templates/intake-form/" | relative_url }}) | Sales / Account Executive |
+| Run the first serious customer discovery conversation | [Initial discovery intake]({{ "/phases/intake/" | relative_url }}) | [Sales discovery call]({{ "/phases/sales-discovery/" | relative_url }}) and the [initial discovery intake form]({{ "/templates/initial-discovery-intake-form/" | relative_url }}) | Sales / Account Executive |
 | Align the team on outcomes, stakeholders, and why this work matters | [Common Overview]({{ "/overview/" | relative_url }}) | [Role-based guides]({{ "/audiences/" | relative_url }}) and [How to run the process]({{ "/process/" | relative_url }}) | Sales / Account Executive + Executive Sponsor / Product Owner |
 | Turn a feature discussion into a real workflow and MVP slice | [Workflow workshop]({{ "/phases/workflow-workshop/" | relative_url }}) | [Workflow workshop pack]({{ "/templates/workflow-workshop/" | relative_url }}) | Product Manager / Delivery Lead |
 | Validate integrations, environments, access, and NFRs | [Technical deep dive + NFR scenarios]({{ "/phases/technical-deep-dive/" | relative_url }}) | [Technical deep dive template]({{ "/templates/technical-deep-dive/" | relative_url }}) | Solutions Architect |
@@ -45,7 +45,7 @@ Requirements gathering is **not** a single meeting. It’s a sequenced process t
 
 ```mermaid
 flowchart LR
-  A[Pre-work intake] --> B[Sales discovery]
+  A[Initial discovery intake] --> B[Sales discovery]
   B --> C[Workflow workshop]
   C --> D[Technical deep dive + NFR scenarios]
   D --> E[Security / procurement track]
@@ -59,7 +59,7 @@ flowchart LR
 
 ## Start by role
 
-- **Sales / Account Executive**: start with [Commercial boundary]({{ "/commercial-boundary/" | relative_url }}), [Pre-work intake]({{ "/phases/intake/" | relative_url }}), [Sales discovery call]({{ "/phases/sales-discovery/" | relative_url }}), and the [Sales / Account Executive guide]({{ "/audiences/sales/" | relative_url }}).
+- **Sales / Account Executive**: start with [Commercial boundary]({{ "/commercial-boundary/" | relative_url }}), [Initial discovery intake]({{ "/phases/intake/" | relative_url }}), [Sales discovery call]({{ "/phases/sales-discovery/" | relative_url }}), and the [Sales / Account Executive guide]({{ "/audiences/sales/" | relative_url }}).
 - **Solutions Architect**: start with [How to run the process]({{ "/process/" | relative_url }}), [Technical deep dive + NFR scenarios]({{ "/phases/technical-deep-dive/" | relative_url }}), and the [Solutions Architect guide]({{ "/audiences/solutions-architect/" | relative_url }}).
 - **Product Manager / Delivery Lead**: start with [Workflow workshop]({{ "/phases/workflow-workshop/" | relative_url }}), [Structured handover]({{ "/phases/handover/" | relative_url }}), and the [Product Manager / Delivery Lead guide]({{ "/audiences/product-delivery/" | relative_url }}).
 - **Security / Compliance / GRC**: start with [Security / procurement track]({{ "/phases/security-procurement/" | relative_url }}), the [security evidence pack template]({{ "/templates/security-evidence-pack/" | relative_url }}), and the [Security / Compliance / GRC guide]({{ "/audiences/security/" | relative_url }}).

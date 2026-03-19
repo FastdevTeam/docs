@@ -6,6 +6,21 @@ permalink: /templates/decision-log-risk-register/
 
 # Decision Log + Open Questions + Risk Register
 
+## Practical Meaning
+- What this is: the shared running log used across discovery.
+- What it is for: track what has been decided, what is still unknown, and what could go wrong.
+- Why it is needed: without it, open questions disappear between sessions, risks are rediscovered later, and handover to delivery loses important context.
+
+## Minimum Required
+- Record any material decision
+- Record every open question that blocks progress
+- Record the top risks with owners
+
+## Optional For More Complex Deals
+- Track assumptions separately
+- Add due dates to open questions
+- Note impacted artifacts or phases
+
 ## Goal
 Maintain one lightweight working artifact across discovery so decisions, unknowns, and risks do not get lost between phases.
 
@@ -59,3 +74,7 @@ Update within 24-48 hours after each session.
 - New risks raised:
 - Evidence requested:
 - Next checkpoint:
+
+## Recommended Next Step
+- Review this log after every session and carry unresolved items into the next phase.
+- Use the same IDs in the handover packet so delivery inherits the outstanding questions and risks clearly.

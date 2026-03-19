@@ -9,6 +9,21 @@ permalink: /templates/commercial-boundary/
 Use this template to set expectations on **what is free vs paid** discovery, without sounding defensive.
 Keep the framing: **risk reduction + faster success**, not “we don’t want to help”.
 
+## Practical Meaning
+- What this is: the script Sales uses when a customer starts asking for delivery-grade discovery work during pre-sales.
+- What it is for: explain the free-vs-paid boundary clearly without sounding defensive.
+- Why it is needed: without it, teams drift into free consulting, explain the boundary inconsistently, or make the paid-discovery conversation feel awkward and reactive.
+
+## Minimum Required To Use This
+- A view of what the customer is asking for
+- A view of whether the work is still directional or implementation-grade
+- A recommended package or next step from your side
+
+## Optional For More Complex Deals
+- SA or Product support in the conversation
+- A concrete sprint or PoV outline
+- A commercial fallback such as a credited discovery option
+
 ## Goal
 Help Sales explain when discovery stays directional and when it becomes delivery-grade work that should be packaged and sold.
 
@@ -128,3 +143,7 @@ Best,
 
 **Objection:** “We just need a quick estimate.”  
 **Response:** “We can provide a ROM range based on Phase 0–2. For a committed estimate, we’ll need the sprint outputs—otherwise we’d be guessing.”
+
+## Recommended Next Step
+- Choose one motion: stay directional, run a paid discovery sprint, or run a paid PoV.
+- Send the follow-up note immediately after the conversation so the commercial boundary is documented.

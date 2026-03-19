@@ -6,6 +6,22 @@ permalink: /phases/workflow-workshop/
 
 # Phase 2 — Workflow Workshop (Story Mapping / Use-Case Slicing)
 
+## Practical Meaning
+- What this phase is: the workshop where feature ideas are turned into a real workflow, key exceptions, and an MVP slice.
+- What it is for: make the team agree on how the work actually happens and what must be in version 1.
+- Why it is needed: without it, scope stays fuzzy, workshops drift into wish lists, and later technical or delivery work is built on weak assumptions.
+
+## Minimum Required To Run This Well
+- One empowered customer product owner / business owner
+- One or two SMEs who know the actual process
+- One workflow to map from trigger to done state
+- A willingness to decide what is in MVP vs later
+
+## Optional For More Complex Deals
+- Separate workflow tracks for multiple roles or business units
+- IT participation where the process crosses systems
+- Deeper acceptance criteria and business-rule capture for larger initiatives
+
 ## Lead
 Vendor Product Manager / Delivery Lead + SA (co-leads). Sales supports.
 

@@ -2,7 +2,7 @@
 
 This repository contains a **GitHub Pages** site (served from `/docs`) that documents a phased approach to software requirements gathering:
 
-**pre-work intake → sales discovery → workflow workshop → technical deep dive + NFR scenarios → security/procurement track → prototype/PoV → structured handover + backlog refinement**.
+**initial discovery intake → sales discovery → workflow workshop → technical deep dive + NFR scenarios → security/procurement track → prototype/PoV → structured handover + backlog refinement**.
 
 ## Enable GitHub Pages (from `/docs`)
 1. Push this repo to GitHub.

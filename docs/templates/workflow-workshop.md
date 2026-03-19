@@ -6,6 +6,29 @@ permalink: /templates/workflow-workshop/
 
 # Workflow Workshop Pack (Story Map or Use-Case Slices)
 
+## Practical Meaning
+- What this is: the facilitation pack for the workshop where vague requests become a real end-to-end workflow and MVP slice.
+- What it is for: move the discussion from feature lists into concrete work, exceptions, and scope decisions.
+- Why it is needed: without it, teams stay stuck in feature lists, miss exceptions, and leave the workshop without clear scope or usable outputs.
+
+## Minimum Required For Any Workshop
+- One named business owner who can make scope tradeoffs
+- One real workflow to map
+- One or two SMEs who know the actual process
+- A decision on what is in MVP vs later
+
+## Optional For More Complex Deals
+- Separate workflows per business unit or role
+- Data-field and approval details
+- IT participation where workflows cross systems
+- Acceptance criteria for multiple slices instead of just the top ones
+
+## Example Of A Good Slice
+- Workflow ID: `WF-01`
+- Workflow: "Submit customer credit request"
+- MVP includes: create request, attach evidence, route to approver, approve or reject, record audit event
+- Deferred: ERP sync, advanced reporting, delegation rules
+
 ## Goal
 Turn outcomes into an end-to-end workflow model; define MVP slice; capture exceptions and business rules.
 
@@ -71,6 +94,8 @@ Product Manager / Delivery Lead, with SA support.
 - Pain point 3:
 
 ### 3) Happy path
+- Workflow ID:
+- Linked outcome IDs:
 - Trigger:
 - Steps:
 - Done state:
@@ -115,6 +140,7 @@ Under each activity, list tasks. Then mark release slices:
   - Slice 3:
 
 ## Acceptance criteria seeds for top slices
+- Linked workflow ID:
 - Slice / workflow:
 - Acceptance criteria bullets:
 
@@ -123,3 +149,7 @@ Under each activity, list tasks. Then mark release slices:
 - Open questions + owners:
 - Risks surfaced:
 - Recommended next phase:
+
+## Recommended Next Step
+- Carry workflow IDs into the [technical deep dive]({{ "/templates/technical-deep-dive/" | relative_url }}) and [handover packet]({{ "/templates/handover-packet/" | relative_url }}).
+- If the riskiest slice still cannot be validated by discussion alone, open the [PoV plan]({{ "/templates/pov-plan/" | relative_url }}).

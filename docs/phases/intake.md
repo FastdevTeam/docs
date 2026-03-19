@@ -1,10 +1,26 @@
 ---
 layout: page
-title: "Phase 0 — Pre-work Intake"
+title: "Phase 0 — Initial Discovery Intake"
 permalink: /phases/intake/
 ---
 
-# Phase 0 — Pre-work Intake
+# Phase 0 — Initial Discovery Intake
+
+## Practical Meaning
+- What this phase is: the lightweight intake step before the first serious customer conversation.
+- What it is for: collect enough context so the live call can focus on decisions instead of basic fact gathering.
+- Why it is needed: without it, Sales starts cold, stakeholder gaps stay hidden, and the first call loses time on basics.
+
+## Minimum Required To Run This Well
+- A named customer contact
+- A clear business-side owner or sponsor
+- A short written intake response
+- Enough context to schedule the next live conversation
+
+## Optional For More Complex Deals
+- Early IT, security, or procurement contacts
+- Screenshots, sample documents, or example records
+- Early detection of hard constraints that may trigger technical or security work in parallel
 
 ## Lead
 Vendor Sales / Account Executive (owner), with SA/Product reviewing.
@@ -36,7 +52,7 @@ Async (10–20 minutes for customer to complete).
 - The team needs a baseline view of problem, users, and constraints.
 
 ## Template(s) to use
-- [Pre-work intake form]({{ "/templates/intake-form/" | relative_url }})
+- [Initial discovery intake form]({{ "/templates/initial-discovery-intake-form/" | relative_url }})
 - [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }}) for internal follow-up
 
 ## Required customer attendees
@@ -56,7 +72,7 @@ Async (10–20 minutes for customer to complete).
 - Target go-live date and reason
 
 ## Outputs
-- Completed intake form
+- Completed initial discovery intake form
 - Stakeholder map and invite list
 - Initial risks/unknowns list
 

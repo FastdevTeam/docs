@@ -6,6 +6,22 @@ permalink: /phases/sales-discovery/
 
 # Phase 1 — Sales Discovery Call
 
+## Practical Meaning
+- What this phase is: the first serious live customer conversation.
+- What it is for: test whether the opportunity is real, urgent, and worth moving into deeper discovery.
+- Why it is needed: without it, teams move forward on vague interest instead of a shared understanding of outcomes, scope, and next steps.
+
+## Minimum Required To Run This Well
+- A business stakeholder who can speak to the problem
+- One or more outcomes to discuss
+- A current-state workflow explanation at a high level
+- A recommendation for the next phase
+
+## Optional For More Complex Deals
+- Early SA involvement
+- Early visibility into integration, security, or procurement gates
+- Commercial-boundary repositioning if the customer is already asking for deeper work
+
 ## Lead
 Vendor Sales / Account Executive (lead), SA optional depending on complexity.
 

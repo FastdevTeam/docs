@@ -6,6 +6,22 @@ permalink: /phases/security-procurement/
 
 # Phase 4 — Security / Procurement Track
 
+## Practical Meaning
+- What this phase is: the focused track for customer security review, procurement requirements, and evidence management.
+- What it is for: surface blockers early and organize the evidence needed to move forward.
+- Why it is needed: without it, vendor review arrives late, evidence is assembled reactively, and deals or projects stall unexpectedly.
+
+## Minimum Required To Run This Well
+- A clear signal that a security or procurement gate exists
+- A questionnaire, checklist, or required evidence list
+- Named owners for customer and vendor follow-up
+- A blockers list with next actions
+
+## Optional For More Complex Deals
+- Domain-by-domain questionnaire mapping
+- Formal go / no-go decisions for PoV or build
+- Deeper legal, compliance, or residency analysis
+
 ## Lead
 Vendor Security / Compliance / GRC (lead) with SA for technical answers; Sales coordinates.
 

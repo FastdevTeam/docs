@@ -6,6 +6,23 @@ permalink: /templates/security-evidence-pack/
 
 # Security / Procurement Evidence Pack + Questionnaire Mapping
 
+## Practical Meaning
+- What this is: the working package for customer security review, procurement questionnaires, and evidence requests.
+- What it is for: keep security evidence, mappings, gaps, and owners in one place.
+- Why it is needed: without it, answers get recreated repeatedly, ownership becomes unclear, and security blockers show up late when the deal or project is already moving.
+
+## Minimum Required For Any Security Review
+- The customer questionnaire or checklist
+- The list of mandatory evidence or certifications
+- An owner per major evidence area
+- A visible blockers list
+
+## Optional For More Complex Deals
+- Domain-by-domain mapping detail
+- Due dates per question cluster
+- Formal proceed / no-proceed gates for PoV or build
+- Deeper regulatory or residency tracking
+
 ## Goal
 Prevent security/procurement from blocking delivery late. Map customer questionnaires to a single evidence pack.
 
@@ -77,3 +94,7 @@ Async working document plus one or more 30-60 minute review sessions.
 - Immediate follow-ups:
 - Customer items due:
 - Internal items due:
+
+## Recommended Next Step
+- Decide whether security review can proceed in parallel with PoV or handover work.
+- Carry blockers and due dates into the [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }}).

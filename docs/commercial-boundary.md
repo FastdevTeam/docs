@@ -20,7 +20,7 @@ This page explains the boundary and the practical triggers to move from free to 
 **Purpose:** decide whether to proceed and enable a credible proposal.
 
 **Typical scope**
-- Phase 0 (Pre-work intake)
+- Phase 0 (Initial discovery intake)
 - Phase 1 (Sales discovery call)
 - Phase 2 **light** (workflow workshop to define 3 core journeys + MVP slice)
 
@@ -67,7 +67,7 @@ Move to **paid discovery** when **any 2** of the below are true:
 
 ## Mapping to the phased playbook
 
-- **Phase 0 — Intake:** Free  
+- **Phase 0 — Initial discovery intake:** Free
 - **Phase 1 — Sales discovery:** Free  
 - **Phase 2 — Workflow workshop:** Free (light) → Paid (deep)  
 - **Phase 3 — Technical deep dive + NFR scenarios:** Paid (default)  

@@ -52,7 +52,7 @@ Discovery can range from light qualification to delivery-grade specification. To
 See: [Commercial boundary details]({{ "/commercial-boundary/" | relative_url }})
 
 ## The phased process (high level)
-- **Phase 0 — Pre-work intake** (Sales-led): collect context; identify stakeholders; request evidence.
+- **Phase 0 — Initial discovery intake** (Sales-led): collect context; identify stakeholders; request evidence.
 - **Phase 1 — Sales discovery call** (Sales-led, SA optional): outcomes, urgency, stakeholders, decision process.
 - **Phase 2 — Workflow workshop** (Product + SA-led): map end-to-end workflows; identify exceptions; define MVP slice.
 - **Phase 3 — Technical deep dive + NFR scenarios** (SA-led): integrations, data, environments; make NFRs measurable.

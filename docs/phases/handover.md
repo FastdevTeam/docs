@@ -6,6 +6,22 @@ permalink: /phases/handover/
 
 # Phase 6 — Structured Handover + Backlog Refinement
 
+## Practical Meaning
+- What this phase is: the consolidation step where discovery outputs are turned into delivery-ready artifacts.
+- What it is for: hand the work to delivery without losing the original business intent, constraints, and open issues.
+- Why it is needed: without it, implementation starts from fragmented notes and the team re-discovers the same questions again.
+
+## Minimum Required To Run This Well
+- A coherent summary of scope and outcomes
+- Workflow and technical outputs from earlier phases
+- A first-pass backlog
+- Clear owners for remaining questions and refinement
+
+## Optional For More Complex Deals
+- Detailed dependency planning
+- Expanded NFR and security readiness detail
+- Broader cross-team refinement and governance setup
+
 ## Lead
 Vendor Product Manager / Delivery Lead (lead), Engineering and SA support.
 

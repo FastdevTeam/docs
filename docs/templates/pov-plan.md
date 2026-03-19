@@ -6,6 +6,29 @@ permalink: /templates/pov-plan/
 
 # Prototype / Proof-of-Value (PoV) Plan
 
+## Practical Meaning
+- What this is: the scope and control document for a timeboxed PoV.
+- What it is for: prove or disprove the riskiest assumptions with clear boundaries and success criteria.
+- Why it is needed: without it, PoVs expand into mini-projects, success becomes subjective, and teams finish the work without a clear decision.
+
+## Minimum Required For Any PoV
+- One uncertainty to validate
+- One end-to-end slice
+- Named reviewers
+- Explicit success criteria
+- A clear proceed / revise / stop decision at the end
+
+## Optional For More Complex Deals
+- Integration spikes
+- Security viability checks
+- Mid-point reviews
+- Separate technical vs business success criteria
+
+## Example Of A Strong Success Criterion
+- Business: "The customer product owner agrees the flow is good enough to pilot."
+- Technical: "Decision sync completes with correct data in under 10 seconds."
+- Security: "The flow uses approved authentication and produces an audit event."
+
 ## Goal
 Validate the highest-risk assumptions quickly using a thin end-to-end slice (“walking skeleton”).
 
@@ -81,3 +104,7 @@ Usually 1-3 weeks.
 - Proceed / revise / stop:
 - Scope changes:
 - Follow-up actions:
+
+## Recommended Next Step
+- If successful, carry findings into the [handover packet]({{ "/templates/handover-packet/" | relative_url }}).
+- If the PoV invalidates key assumptions, return to the [workflow workshop]({{ "/templates/workflow-workshop/" | relative_url }}) or [technical deep dive]({{ "/templates/technical-deep-dive/" | relative_url }}) with the updated facts.

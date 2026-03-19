@@ -6,6 +6,22 @@ permalink: /phases/pov/
 
 # Phase 5 — Prototype / Proof-of-Value (PoV)
 
+## Practical Meaning
+- What this phase is: the timeboxed proof step where the riskiest assumptions are tested in a thin end-to-end slice.
+- What it is for: replace debate with evidence on value, usability, feasibility, or security viability.
+- Why it is needed: without it, teams either overbuild too early or keep discussing questions that only a concrete test can answer.
+
+## Minimum Required To Run This Well
+- Clear hypotheses
+- Clear success criteria
+- One bounded slice to test
+- Named reviewers who will decide what the result means
+
+## Optional For More Complex Deals
+- Integration spikes
+- Security viability checks
+- Mid-point reviews and structured findings capture
+
 ## Lead
 Vendor Product Manager / Delivery Lead (problem framing) + Engineering (build) + SA (technical risks).
 

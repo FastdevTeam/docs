@@ -6,19 +6,37 @@ permalink: /templates/sales-discovery/
 
 # Sales Discovery Call Script
 
+## Practical Meaning
+- What this is: the guide for the first serious customer discovery conversation.
+- What it is for: help Sales test whether the opportunity is real, urgent, and worth deeper discovery.
+- Why it is needed: without it, the call often becomes a loose chat that never clearly establishes outcomes, decision mechanics, MVP boundaries, or the right next step.
+
+## Minimum Required For Any Call
+- Business problem and urgency
+- One measurable outcome
+- Named sponsor or business owner
+- High-level workflow pain
+- Next-step recommendation
+
+## Optional For More Complex Deals
+- Early integration or architecture signals
+- Multiple stakeholder groups or business units
+- Procurement or security gate timing
+- Early commercial-boundary repositioning
+
 ## Goal
 Align on outcomes, urgency, stakeholders, and the buying process; produce a short discovery summary.
 
 ## When to use
 - For the first serious customer discovery call
-- After an intake form or equivalent context exists
+- After the initial discovery intake form or equivalent context exists
 - Before committing to deeper workflow, technical, or PoV work
 
 ## Owner
 Sales / Account Executive. Invite the Solutions Architect when technical complexity is already obvious.
 
 ## Inputs required
-- Completed intake form or equivalent notes
+- Completed initial discovery intake form or equivalent notes
 - Customer background and opportunity context
 - Commercial boundary position for the opportunity
 
@@ -89,3 +107,7 @@ Sales / Account Executive. Invite the Solutions Architect when technical complex
 - MVP hypothesis (in/out)
 - Risks/unknowns
 - Next sessions + attendee list
+
+## Recommended Next Step
+- Complete the [Discovery Summary v0]({{ "/templates/discovery-summary/" | relative_url }}) and send a short confirmation note.
+- Move to the [workflow workshop]({{ "/templates/workflow-workshop/" | relative_url }}) for scope shaping, or escalate early to the [technical deep dive]({{ "/templates/technical-deep-dive/" | relative_url }}) if constraints already dominate.

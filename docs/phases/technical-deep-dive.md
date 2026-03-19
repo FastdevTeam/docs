@@ -6,6 +6,22 @@ permalink: /phases/technical-deep-dive/
 
 # Phase 3 — Technical Deep Dive + NFR Scenario Workshop
 
+## Practical Meaning
+- What this phase is: the structured technical review that turns system assumptions into explicit constraints, dependencies, and measurable quality targets.
+- What it is for: determine whether the proposed scope is actually feasible and what technical risks must be handled.
+- Why it is needed: without it, integrations, environments, and NFRs remain vague until the team is already trying to build.
+
+## Minimum Required To Run This Well
+- Relevant customer technical stakeholders
+- A working view of the MVP or key workflows
+- The main systems or integrations in scope
+- At least the MVP-critical NFRs and technical risks
+
+## Optional For More Complex Deals
+- Detailed data-object mapping
+- Deployment-window, residency, or tenant-model constraints
+- Broader NFR coverage beyond the MVP-critical scenarios
+
 ## Lead
 Vendor Solutions Architect (lead), Engineering/Product support as needed.
 

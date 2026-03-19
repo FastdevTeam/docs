@@ -6,6 +6,24 @@ permalink: /templates/handover-packet/
 
 # Structured Handover Packet + Delivery-Ready Backlog
 
+## Practical Meaning
+- What this is: the final consolidation artifact for the discovery effort.
+- What it is for: turn discovery outputs into something a delivery team can actually pick up and refine.
+- Why it is needed: without it, discovery knowledge stays scattered across notes, workshops, and chats, and implementation starts with re-discovery and avoidable churn.
+
+## Minimum Required For Any Handover
+- Problem and outcome summary
+- MVP scope boundaries
+- At least the key workflow slices
+- Main dependencies and constraints
+- A first-pass backlog with acceptance criteria seeds
+
+## Optional For More Complex Deals
+- Full decision log references
+- Detailed NFR coverage
+- Security readiness detail
+- Cross-team dependency planning
+
 ## Goal
 Turn discovery outputs into delivery-ready backlog items with acceptance criteria and dependencies.
 
@@ -72,10 +90,16 @@ Product Manager / Delivery Lead, with SA and Engineering input.
 - Open questions + owners:
 - Top risks + mitigation:
 
+## Traceability Map
+| Outcome ID | Workflow ID | Backlog ID | NFR / Risk / Integration IDs | Notes |
+|---|---|---|---|---|
+| OUT-01 | WF-01 | B-01 | NFR-01, R-01, INT-01 |  |
+
 ## Backlog item format
 - ID:
 - Title:
 - User story / use-case slice:
+- Linked outcome IDs:
 - Source workflow / phase:
 - Acceptance criteria (Given/When/Then preferred):
 - Dependencies (integration, data, security):
@@ -100,3 +124,7 @@ Product Manager / Delivery Lead, with SA and Engineering input.
 - Scope boundaries are explicit.
 - Remaining risks are visible rather than hidden.
 - The next refinement session is scheduled.
+
+## Recommended Next Step
+- Use the traceability map and backlog IDs in the first refinement session.
+- Keep unresolved questions and risks active in the [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }}).

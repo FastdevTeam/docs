@@ -39,7 +39,7 @@ permalink: /audiences/sales/
 - Don’t promise scope/estimates before workflows, integrations, and NFRs are understood.
 
 ## Your outputs
-- Completed intake form (or equivalent).
+- Completed initial discovery intake form (or equivalent).
 - Discovery summary v0 (what we heard + next steps).
 - Stakeholder map (who needs to attend which sessions).
 - Risks/unknowns list.

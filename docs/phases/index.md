@@ -18,7 +18,7 @@ Each phase has:
 > Note: Not every phase is “free by default”. See the [commercial boundary guide]({{ "/commercial-boundary/" | relative_url }}) for when to keep discovery directional vs when to move into paid discovery.
 
 ## Phases
-1. [Pre-work intake](intake/)
+1. [Initial discovery intake](intake/)
 2. [Sales discovery call](sales-discovery/)
 3. [Workflow workshop](workflow-workshop/)
 4. [Technical deep dive + NFR scenarios](technical-deep-dive/)
