@@ -24,6 +24,9 @@ permalink: /templates/handover-packet/
 - Security readiness detail
 - Cross-team dependency planning
 
+## Sample Filled Example
+- See [Example — Handover Packet + Backlog Format]({{ "/examples/handover-packet/" | relative_url }})
+
 ## Goal
 Turn discovery outputs into delivery-ready backlog items with acceptance criteria and dependencies.
 

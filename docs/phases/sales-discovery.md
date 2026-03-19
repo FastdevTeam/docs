@@ -11,7 +11,13 @@ permalink: /phases/sales-discovery/
 - What it is for: test whether the opportunity is real, urgent, and worth moving into deeper discovery.
 - Why it is needed: without it, teams move forward on vague interest instead of a shared understanding of outcomes, scope, and next steps.
 
-## Minimum Required To Run This Well
+## At A Glance
+- Who leads it: Sales / Account Executive
+- Typical duration: 45–60 minutes
+- Commercial model: usually free in pre-sales; move to paid if the customer is already asking for delivery-grade requirements, custom PoV work, or detailed specifications
+- Use these templates: [Sales discovery call script]({{ "/templates/sales-discovery/" | relative_url }}), [Discovery Summary v0]({{ "/templates/discovery-summary/" | relative_url }}), and [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }})
+
+## Minimum Required
 - A business stakeholder who can speak to the problem
 - One or more outcomes to discuss
 - A current-state workflow explanation at a high level
@@ -22,73 +28,50 @@ permalink: /phases/sales-discovery/
 - Early visibility into integration, security, or procurement gates
 - Commercial-boundary repositioning if the customer is already asking for deeper work
 
-## Lead
-Vendor Sales / Account Executive (lead), SA optional depending on complexity.
-
-## Recommended timebox
-45–60 minutes.
-
-## Typical commercial model
-- **Free (pre-sales):** default.
-- **Convert to paid when:** the customer requests delivery-grade requirements/specs or a custom PoV before feasibility and constraints are validated.
-
-## Purpose
-- Align on outcomes, urgency, and buying process.
-- Build a shared understanding of current pain and MVP hypothesis.
-- Produce a short discovery summary for confirmation.
-
-## Use this phase when
+## Use This Phase When
 - You need the first live conversation that tests whether the opportunity is real and worth deeper discovery.
 - Sales needs to understand urgency, stakeholders, and what must work first.
 - The team needs a shared view of problem, users, and likely next sessions.
 
-## Do not use this phase when
+## Do Not Use This Phase When
 - The customer expects delivery-grade requirements gathering in the first meeting.
 - The key business owner and sponsor are unavailable and cannot delegate decisions.
 - The next step is clearly technical due diligence with IT already driving the agenda.
 
-## Entry criteria
+## Before You Start
 - A basic intake or equivalent context exists.
 - Sales has a plausible fit hypothesis.
 - A business-side customer stakeholder is available for the call.
 
-## Template(s) to use
-- [Sales discovery call script]({{ "/templates/sales-discovery/" | relative_url }})
-- [Discovery Summary v0]({{ "/templates/discovery-summary/" | relative_url }})
-- [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }})
-
-## Required customer attendees
+## Who Should Be Involved
 - Executive sponsor / business sponsor and/or customer product owner / business owner
 - Optional: a business SME / power user for quick workflow context
 
-## Agenda
-1. Context and trigger
-2. Outcomes + success metrics
-3. Current process walkthrough (high level)
-4. MVP hypothesis (what must work end-to-end)
-5. Decision process + stakeholders + next steps
+## What To Cover
+1. Context and trigger.
+2. Outcomes and success measures.
+3. High-level current process.
+4. MVP hypothesis: what must work first.
+5. Decision process, stakeholders, and next steps.
 
-## Inputs to request (evidence)
+## Ask For These Inputs
 - Intake form (preferred)
 - Any high-level docs/screenshots available
 - Known decision gates (IT/Security/Procurement)
 
-## Outputs
-- Discovery Summary v0 (problem, outcomes, users, MVP hypothesis, risks)
-- Next-step plan and workshop invites
-
-## Exit criteria
-- Outcomes, urgency, and decision mechanics are understood well enough to plan the next step.
-- An MVP hypothesis exists, even if it is provisional.
+## What Good Looks Like At The End
+- Outcomes, urgency, and decision mechanics are clear enough to plan the next step.
+- An MVP hypothesis exists, even if it is still provisional.
 - The right next session is chosen and the right roles are identified.
 - Major blockers and unknowns are logged.
+- A [Discovery Summary v0]({{ "/templates/discovery-summary/" | relative_url }}) can be sent for confirmation.
 
-## Next likely phase
+## Next Likely Phase
 - [Phase 2 — Workflow workshop]({{ "/phases/workflow-workshop/" | relative_url }})
-- [Phase 3 — Technical deep dive + NFR scenarios]({{ "/phases/technical-deep-dive/" | relative_url }}) for integration-heavy opportunities
+- [Phase 3 — Technical deep dive + NFR review]({{ "/phases/technical-deep-dive/" | relative_url }}) for integration-heavy opportunities
 - [Phase 4 — Security / procurement track]({{ "/phases/security-procurement/" | relative_url }}) if vendor review is a likely gate
 
-## Red flags (and what to do)
+## Red Flags And What To Do
 - “Everything is a must-have” → use MVP slicing language; propose workflow workshop.
 - Unknown blockers (security/procurement) → start the security track early.
 - No deadline driver → clarify urgency; avoid premature commitments.

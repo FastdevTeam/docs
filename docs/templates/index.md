@@ -20,3 +20,10 @@ Use the `Usage Mode` column to decide whether a template can be sent directly to
 | [Security/procurement evidence pack](security-evidence-pack/) | Internal working doc | Security / Compliance / GRC | Manage evidence, questionnaires, and blockers |
 | [PoV plan](pov-plan/) | Collaborative working doc | Product Manager / Delivery Lead + Engineering + SA | Scope and control a timeboxed PoV |
 | [Handover packet + backlog format](handover-packet/) | Internal working doc | Product Manager / Delivery Lead | Consolidate discovery into delivery-ready artifacts |
+
+## Sample Filled Examples
+
+Filled examples now live in the separate [Examples]({{ "/examples/" | relative_url }}) section.
+Use that section when you want to study what "good" looks like before filling in the real template.
+
+- [Open the Examples section]({{ "/examples/" | relative_url }})

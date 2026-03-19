@@ -24,6 +24,9 @@ permalink: /templates/discovery-summary/
 - MVP hypothesis: "Version 1 should support request submission, manager approval, rejection reason, and audit history."
 - Next step: "Run workflow workshop with business owner, 2 SMEs, and IT observer."
 
+## Sample Filled Example
+- See [Example — Discovery Summary v0]({{ "/examples/discovery-summary/" | relative_url }})
+
 ## Goal
 Capture the output of the initial sales discovery conversation in a format that can be confirmed with the customer and used to plan the next discovery steps.
 

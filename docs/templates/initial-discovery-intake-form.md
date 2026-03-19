@@ -33,6 +33,9 @@ If you do not know an answer, write `unknown`.
 - Success: "Cut approval time from 2 days to same day and make every approval traceable."
 - Version 1 must-have: "Submit request, route to approver, approve or reject, and capture an audit record."
 
+## Sample Filled Example
+- See [Example — Initial Discovery Intake Form]({{ "/examples/initial-discovery-intake/" | relative_url }})
+
 ## Before you start
 - Who should complete this: the executive sponsor / business sponsor or the day-to-day product owner / business owner
 - How long it should take: about 10-15 minutes

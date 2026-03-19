@@ -70,7 +70,7 @@ Move to **paid discovery** when **any 2** of the below are true:
 - **Phase 0 — Initial discovery intake:** Free
 - **Phase 1 — Sales discovery:** Free  
 - **Phase 2 — Workflow workshop:** Free (light) → Paid (deep)  
-- **Phase 3 — Technical deep dive + NFR scenarios:** Paid (default)  
+- **Phase 3 — Technical deep dive + NFR review:** Paid (default)
 - **Phase 4 — Security/procurement track:** Paid when non-trivial  
 - **Phase 5 — Prototype/PoV:** Paid (default)  
 - **Phase 6 — Handover + backlog refinement:** Either (light in pre-sales; delivery-grade in paid engagement)

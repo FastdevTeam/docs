@@ -55,10 +55,10 @@ See: [Commercial boundary details]({{ "/commercial-boundary/" | relative_url }})
 - **Phase 0 — Initial discovery intake** (Sales-led): collect context; identify stakeholders; request evidence.
 - **Phase 1 — Sales discovery call** (Sales-led, SA optional): outcomes, urgency, stakeholders, decision process.
 - **Phase 2 — Workflow workshop** (Product + SA-led): map end-to-end workflows; identify exceptions; define MVP slice.
-- **Phase 3 — Technical deep dive + NFR scenarios** (SA-led): integrations, data, environments; make NFRs measurable.
+- **Phase 3 — Technical deep dive + NFR review** (SA-led): integrations, data, environments; make NFRs measurable.
 - **Phase 4 — Security/procurement track** (Security / Compliance / GRC-led + SA): questionnaire mapping + evidence pack.
 - **Phase 5 — Prototype / PoV** (Product/Eng-led + SA): validate riskiest assumptions with a thin end-to-end slice.
-- **Phase 6 — Structured handover + backlog refinement** (Product Manager / Delivery Lead-led): delivery-ready backlog and cadence.
+- **Phase 6 — Handover to delivery** (Product Manager / Delivery Lead-led): delivery-ready backlog and cadence.
 
 ## What “done” looks like (outputs)
 - Confirmed problem statement, outcomes, and success metrics

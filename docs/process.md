@@ -47,7 +47,7 @@ See: [Commercial boundary details]({{ "/commercial-boundary/" | relative_url }})
 ### Compressed (≈2 weeks, low complexity)
 1. Intake (async) → Sales discovery
 2. Workflow workshop
-3. Technical deep dive + mini NFR scenarios
+3. Technical deep dive + mini NFR review
 4. Light security intake (if needed)
 5. Handover packet + backlog v1
 

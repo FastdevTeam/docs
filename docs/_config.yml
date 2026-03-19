@@ -12,6 +12,7 @@ header_pages:
   - phases/index.md
   - audiences/index.md
   - templates/index.md
+  - examples/index.md
   - references.md
 
 # Minima settings

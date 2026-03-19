@@ -1,17 +1,23 @@
 ---
 layout: page
-title: "Phase 5 — Prototype / Proof-of-Value (PoV)"
+title: "Phase 5 — Prototype / Proof of Value (PoV)"
 permalink: /phases/pov/
 ---
 
-# Phase 5 — Prototype / Proof-of-Value (PoV)
+# Phase 5 — Prototype / Proof of Value (PoV)
 
 ## Practical Meaning
 - What this phase is: the timeboxed proof step where the riskiest assumptions are tested in a thin end-to-end slice.
 - What it is for: replace debate with evidence on value, usability, feasibility, or security viability.
 - Why it is needed: without it, teams either overbuild too early or keep discussing questions that only a concrete test can answer.
 
-## Minimum Required To Run This Well
+## At A Glance
+- Who leads it: Product Manager / Delivery Lead, Engineering, and Solutions Architect
+- Typical duration: 1–3 weeks, timeboxed
+- Commercial model: customer-specific PoV work is usually paid; only a standard product demo with no custom build or customer access should stay free
+- Use these templates: [Prototype / PoV plan]({{ "/templates/pov-plan/" | relative_url }}) and [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }})
+
+## Minimum Required
 - Clear hypotheses
 - Clear success criteria
 - One bounded slice to test
@@ -22,80 +28,52 @@ permalink: /phases/pov/
 - Security viability checks
 - Mid-point reviews and structured findings capture
 
-## Lead
-Vendor Product Manager / Delivery Lead (problem framing) + Engineering (build) + SA (technical risks).
-
-## Recommended timebox
-1–3 weeks (timeboxed).
-
-## Typical commercial model
-- **Paid (default):** custom PoV/prototype work is delivery effort.
-- **Free exception:** demonstrating existing product capability (no customer-specific build, no customer data/system access).
-
-**Convert to paid when (practical triggers):**
-- any engineering build is required,
-- PoV touches customer integrations/data/identity,
-- PoV success criteria must be proven with measurable NFR scenarios.
-
-## Purpose
-- Validate the highest-risk assumptions quickly (value, usability, feasibility).
-- Demonstrate a thin end-to-end slice (“walking skeleton”).
-- Produce evidence for scope agreement and estimating.
-
-## Use this phase when
+## Use This Phase When
 - The most important unknowns cannot be resolved through workshops alone.
 - The customer needs proof on value, usability, feasibility, or security viability.
 - A timeboxed thin slice will reduce risk faster than more abstract discussion.
 
-## Do not use this phase when
+## Do Not Use This Phase When
 - The PoV is becoming a disguised implementation project.
 - Success criteria, reviewers, or scope boundaries are not agreed.
 - The same question could be answered faster with a workshop, demo, or technical spike.
 
-## Entry criteria
+## Before You Start
 - Clear hypotheses exist.
 - Success criteria are explicit.
 - Required customer reviewers are named.
 - Access, data, or a mock/stub plan is defined.
 
-## Template(s) to use
-- [Prototype / PoV plan]({{ "/templates/pov-plan/" | relative_url }})
-- [Decision log + open questions + risk register]({{ "/templates/decision-log-risk-register/" | relative_url }})
-
-## Required customer attendees
+## Who Should Be Involved
 - Customer product owner / business owner (required)
 - 1–2 business SMEs / power users (required)
 - Customer IT / architecture / operations (if integrations)
 - Customer Security (if PoV touches security concerns)
 
-## Agenda
-1. Confirm PoV hypotheses and success criteria
-2. Define scope: one end-to-end workflow slice
-3. Identify required access/data
-4. Build and iterate with at least one mid-point check-in
-5. Demo and capture findings → update backlog
+## What To Cover
+1. Confirm the hypotheses and success criteria.
+2. Define one bounded end-to-end slice.
+3. Identify required access, data, or mocks.
+4. Build and iterate with at least one mid-point check-in.
+5. Demo the result and capture findings.
 
-## Inputs to request (evidence)
+## Ask For These Inputs
 - Sandbox/API access or alternative exports
 - Representative sample data
 - Clear PoV success criteria and demo scenarios
 - Named customer feedback participants
 
-## Outputs
-- PoV demo + findings (validated/invalidated assumptions)
-- Updated MVP scope and backlog
-- Updated risk register and next steps
-
-## Exit criteria
+## What Good Looks Like At The End
 - The PoV has a clear outcome: proceed, revise, or stop.
 - Validated and invalidated assumptions are recorded.
 - Scope, backlog, and risk posture are updated based on findings.
+- The team learned something concrete that a workshop alone could not have resolved.
 
-## Next likely phase
-- [Phase 6 — Structured handover + backlog refinement]({{ "/phases/handover/" | relative_url }})
+## Next Likely Phase
+- [Phase 6 — Handover to delivery]({{ "/phases/handover/" | relative_url }})
 - In some cases, return to [Phase 2 — Workflow workshop]({{ "/phases/workflow-workshop/" | relative_url }}) or [Phase 3 — Technical deep dive]({{ "/phases/technical-deep-dive/" | relative_url }}) if the PoV changed the problem framing substantially
 
-## Red flags (and what to do)
+## Red Flags And What To Do
 - PoV becomes “mini full build” → enforce timebox and scope.
 - No customer feedback scheduled → PoV will miss the mark.
 - Access not granted → replace with mock/stub plan or pause.
